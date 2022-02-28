@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     // Mein erster Commit, Hallo Sepplschuss//
+    // Dere Phis
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
